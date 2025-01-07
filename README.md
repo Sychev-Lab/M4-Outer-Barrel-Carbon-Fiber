@@ -3,6 +3,21 @@
 ![Presentation image side view](/content/IMG_9243.HEIC.jpg)
 ![Presentation image overlap tubes](/content/IMG_9242.HEIC.jpg)
 
+# Table of Contents
+1. [Introduction and Design Considerations](#1-introduction-and-design-considerations)
+2. [Modeling and Mold Creation](#2-modeling-and-mold-creation)
+3. [Material Calculation and Resin Application](#3-material-calculation-and-resin-application)
+4. [PLA+ Parts Printing](#4-pla-parts-printing)
+5. [Parts Preparation](#5-parts-preparation)
+6. [Waxing](#6-waxing)
+7. [Resin and Carbon Layers](#7-resin-and-carbon-layers)
+8. [Assembly and Curing](#8-assembly-and-curing)
+9. [Carbon Tube Selection and Tools](#9-carbon-tube-selection-and-tools)
+10. [Tube Cutting and Fitting](#10-tube-cutting-and-fitting)
+11. [Final Assembly](#11-final-assembly)
+12. [Testing and Adjustments](#12-testing-and-adjustments)
+13. [Conclusions](#13-conclusions)
+
 ---
 
 ## 1. Introduction and Design Considerations
@@ -39,7 +54,6 @@ In the modeling program, by assigning properties to the piece, the volume is obt
 
 ```
 grams = cubic millimeters × 0.001 therefore: X mm^3 / 1000
-
 The tip has 3034.008mm^3 / 1000 = 3.034008g (grams)
 ```
 
@@ -47,7 +61,7 @@ This is the final weight of the piece. To calculate the amount of carbon and res
 
 
 ```
-**percentage * quantity / 100
+percentage * quantity / 100
 60% * 3.034g = 1.8204g (carbon)
 40% * 3.034g = 1.21g (resin)
 ```
@@ -144,7 +158,15 @@ This meticulous approach to manufacturing ensures that each component is of the 
 
 ---
 
-## Costs
+
+# Tools
+
+* Dremel
+* Gloves
+* Particle mask
+* Protective goggles
+
+# Costs
 
 Assuming we have basic tools such as a Dremel, drill, sandpaper, 3D printer, etc...
 

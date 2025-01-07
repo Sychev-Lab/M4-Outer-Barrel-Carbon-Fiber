@@ -3,6 +3,22 @@
 ![Imagen de presentación vista lateral](/content/IMG_9243.HEIC.jpg)
 ![Imagen de presentación tubos superpuestos](/content/IMG_9242.HEIC.jpg)
 
+
+# Índice
+1. [Introducción y Consideraciones de Diseño](#1-introducción-y-consideraciones-de-diseño)
+2. [Modelado y Creación del Molde](#2-modelado-y-creación-del-molde)
+3. [Cálculo de Materiales y Aplicación de Resina](#3-cálculo-de-materiales-y-aplicación-de-resina)
+4. [Impresión de Piezas en PLA+](#4-impresión-de-piezas-en-pla)
+5. [Preparación de las Piezas](#5-preparación-de-las-piezas)
+6. [Encerado](#6-encerado)
+7. [Capas de Resina y Carbono](#7-capas-de-resina-y-carbono)
+8. [Montaje y Curado](#8-montaje-y-curado)
+9. [Selección del Tubo de Carbono y Herramientas](#9-selección-del-tubo-de-carbono-y-herramientas)
+10. [Corte y Ajuste del Tubo](#10-corte-y-ajuste-del-tubo)
+11. [Montaje Final](#11-montaje-final)
+12. [Pruebas y Ajustes](#12-pruebas-y-ajustes)
+13. [Conclusiones](#13-conclusiones)
+
 ---
 
 ## 1. Introducción y Consideraciones de Diseño
@@ -39,14 +55,13 @@ En el programa de modelado, al asignar propiedades a la pieza, se obtiene el vol
 
 ```
 gramos = milímetros cúbicos × 0.001 por lo tanto: X mm^3 / 1000
-
 La punta tiene 3034.008mm^3 / 1000 = 3.034008g (gramos)
 ```
 
 Este es el peso final de la pieza. Para calcular la cantidad de carbono y resina, utilizaremos las siguientes fórmulas:
 
 ```
-**porcentaje * cantidad / 100
+porcentaje * cantidad / 100
 60% * 3.034g = 1.8204g (carbono)
 40% * 3.034g = 1.21g (resina)
 ```
@@ -143,7 +158,14 @@ Este enfoque meticuloso de la fabricación asegura que cada componente sea de la
 
 ---
 
-## Costes
+# Herramientas
+
+* Dremel
+* Guantes
+* Mascara de particulas
+* Gafas protectoras
+
+# Costes
 
 Asumiendo que tenemos herramientas básicas como dremel, taladro, papel de lija, impresora 3D, etc...
 
