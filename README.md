@@ -1,193 +1,160 @@
-# Fabrication of a Custom Outer Barrel for Airsoft M4 in Carbon Fiber
+# Manufacturing a Custom Exterior Part for an Airsoft M4 in Carbon Fiber
 
-![Presentation image side view](/content/IMG_9243.HEIC.jpg)
-![Presentation image overlap tubes](/content/IMG_9242.HEIC.jpg)
+![Side view presentation image](/content/IMG_9243.HEIC.jpg)
+![Overlapping tubes presentation image](/content/IMG_9242.HEIC.jpg)
 
-# Table of Contents
+---
+
+## Table of Contents
+
 1. [Introduction and Design Considerations](#1-introduction-and-design-considerations)
-2. [Modeling and Mold Creation](#2-modeling-and-mold-creation)
-3. [Material Calculation and Resin Application](#3-material-calculation-and-resin-application)
-4. [PLA+ Parts Printing](#4-pla-parts-printing)
-5. [Parts Preparation](#5-parts-preparation)
-6. [Waxing](#6-waxing)
-7. [Resin and Carbon Layers](#7-resin-and-carbon-layers)
-8. [Assembly and Curing](#8-assembly-and-curing)
-9. [Carbon Tube Selection and Tools](#9-carbon-tube-selection-and-tools)
-10. [Tube Cutting and Fitting](#10-tube-cutting-and-fitting)
-11. [Final Assembly](#11-final-assembly)
-12. [Testing and Adjustments](#12-testing-and-adjustments)
-13. [Conclusions](#13-conclusions)
+2. [Materials and Tools Required](#2-materials-and-tools-required)
+3. [Printing Parts in PLA+](#3-printing-parts-in-pla)
+4. [Preparing Carbon Tubes](#4-preparing-carbon-tubes)
+5. [Mold Preparation and Waxing](#5-mold-preparation-and-waxing)
+6. [Mixing and Applying Resin and Carbon Fiber](#6-mixing-and-applying-resin-and-carbon-fiber)
+7. [Curing and Extraction](#7-curing-and-extraction)
+8. [Sanding and Fixing Impurities](#8-sanding-and-fixing-impurities)
+9. [Assembly, Painting, and Drying](#9-assembly-painting-and-drying)
+10. [Conclusions](#10-conclusions)
+11. [Costs](#costs)
+12. [Models / Files](#models-and-files)
+13. [FAQs](#faq)
 
 ---
 
 ## 1. Introduction and Design Considerations
 
-This manual details the process of fabricating a custom outer barrel for an Airsoft M4 using carbon fiber. It will address the challenges and solutions for specific components such as the threaded tip, the internal component, and the tube length.
+This guide details the process for manufacturing a custom exterior part in carbon fiber for an Airsoft M4. It outlines each step to achieve a professional result. The part includes a complex internal component that secures the tube to the RIS while allowing the hop-up insertion. This component poses manufacturing challenges due to its protrusions and variable dimensions, requiring extreme precision.
 
-![General image](/content/image_1736195279192_0.png)
+The tube length depends on the design requirements, and precise cutting is essential for proper integration. Additional reinforcement, such as countersunk screws, may also be considered to increase durability and resistance.
 
-First, we will focus on the tip where the suppressor will be placed, a critical element with a counter-clockwise thread. The difficulty lies in the impossibility of milling the part to create the thread, as it must withstand some pressure and wear from inserting and removing the suppressor. We will experiment with creating the thread directly with the press, carefully evaluating the result and durability.
+![Original piece](/content/image_1736195279192_0.png)
 
-Additional reinforcement is considered, possibly with the incorporation of miniature taper screws.
+## 2. Materials and Tools Required
 
-Secondly, we will address a complex internal component that fits into the upper body of the replica. This piece secures the tube to the RIS and allows the insertion of the hop-up. Its manufacturing is complex due to the protrusions and variable dimensions.
+**Materials:**
+- PLA+ for 3D printing.
+- High-quality carbon tubes (50 cm).
+- Epoxy resin (40% resin, 60% carbon fiber).
+- Carbon fiber in rolls or pre-cut.
+- Mold wax (EasyComposites brand recommended).
+- "Soft Filleting and Filling Wax" putty.
+- Two-component epoxy adhesive.
+- Protective paint or lacquer.
 
-Finally, the tube will have a variable length requiring precise cutting according to needs.
+**Tools:**
+- 3D printer (e.g., Ender 3 Pro or others).
+- Rotary tool (like Dremel) with a stand / Hand saw is also an option.
+- Sandpaper (grits 80 to 240).
+- Small brushes for applying resin.
+- Plastic wrap.
+- Clamps for applying pressure.
+- Oven (optional, depending on the resin used).
 
-## 2. Modeling & Mold Creation
+## 3. Printing Parts in PLA+
 
-3D modeling and subsequent printing allow us to create prototypes and molds precisely.
+Model parts are printed using PLA+ for its ease of handling. The printer used is an Ender 3 Pro, configured with a layer height of `0.15mm` to achieve precision and speed. 3D modeling and subsequent printing allow precise prototyping and mold creation.
 
-The process of creating the mold for the suppressor tip consists of building a model with a base, cap, pin, centering pins, and a locking washer. The final shape will be cubic to ensure precise molding.
+The process for creating the mold for the suppressor tip involves designing a model with a base, cap, pin, centering pins, and a locking washer. The final shape is cubic to ensure precise molding. Parts are printed individually to allow measurements and quality checks.
 
-![Point](/content/image_1736195635219_0.png)
+<video src="/content/1rendition.m3u8_1736196193621_0.mp4-hevc-q28.mp4" preload controls></video>
 
-## 3. Material Calculation & Resin Application
+## 4. Preparing Carbon Tubes
 
-By analyzing the volume of the modeled part, we calculate the necessary amount of carbon fiber and epoxy resin. A mixture of ***60%*** carbon and ***40%*** resin is recommended, rounding the quantities for optimal results.
+Before starting the cutting process, ensure you have the proper tools. You can use a traditional saw, although carbon is not easily cut this way. The most recommended option is a rotary tool like a Dremel. Personally, I use a **Teccpo** model with an extension cable.
 
-In the modeling program, by assigning properties to the piece, the volume is obtained in cubic millimeters `(mm^3)`.
+To achieve precise and clean cuts in the carbon tube, I designed a stand that securely holds the tube and allows it to rotate for straight cuts. The Dremel's extension cable connects to the main handle, and the tube is held in place with clips. At the base of the stand, there are four wheels to facilitate tube rotation for precise and clean cuts.
 
-![image.png](/content/image_1736195659340_0.png)
+Once you have cut the tube to your specifications, check the edges to ensure they are smooth and free of splinters.
 
-**The conversion formula is:**
+In the following video, I have documented the cutting process using the Dremel and the designed stand, providing a clear idea of how to perform this crucial step in creating your own M4 stock.
+
+![Dremel extension](/content/image_1736196006220_0.png)
+![3D Model for cut](/content/image_1736196026756_0.png)
+<video src="/content/rendition.m3u8-cutting.mp4" preload controls></video>
+
+
+## 5. Mold Preparation and Waxing
+
+To facilitate extraction and achieve a smooth surface, wax is applied inside and outside the mold.
+- **Inside:** Manual application of wax, preferably EasyComposites brand, to achieve a smoother surface and prevent the visibility of 3D printing layers.
+- **Outside:** Spray wax is used to remove excess resin.
+
+Once all mold parts are prepared, they are secured using long screws. To prevent material from sticking to the screw heads, "Soft Filleting and Filling Wax" putty is used as a protector. This step is essential to avoid imperfections in the finish.
+
+<video src="/content/3rendition.m3u8_1736196251750_0.mp4" preload controls></video>
+
+## 6. Mixing and Applying Resin and Carbon Fiber
+
+Epoxy resin is mixed in a 40% resin to 60% carbon fiber ratio. To calculate the required amounts, the following formula is used:
 
 ```
-grams = cubic millimeters × 0.001 therefore: X mm^3 / 1000
-The tip has 3034.008mm^3 / 1000 = 3.034008g (grams)
+grams = cubic millimeters × 0.001
 ```
-
-This is the final weight of the piece. To calculate the amount of carbon and resin, we will use the following formulas:
-
+For example, for a part with a volume of 3034 mm³:
 
 ```
-percentage * quantity / 100
-60% * 3.034g = 1.8204g (carbon)
+percentage * amount / 100
+60% * 3.034g = 1.8204g (carbon fiber)
 40% * 3.034g = 1.21g (resin)
 ```
 
-Usually, a little more is used, rounding the quantities and considering that the excess resin will come out of the mold.
+![Volumetric values](/content/image_1736195659340_0.png)
 
-## 4. Printing PLA+ Parts
+**Application:**
+1. Apply an initial layer of resin with a brush.
+2. Manually adjust the carbon fiber with a stick.
+3. Alternatively, mix the carbon fiber directly into the resin and apply the mixture to the mold.
 
-We will use PLA+ to print the models due to its ease of printing and handling.
+The resin and carbon fiber layers are applied to the mold sequentially. The first method involves applying an initial resin layer with a brush and manually adjusting the carbon fibers with a stick to cover all areas and gaps.
 
-My printer is an Ender 3 Pro with Klipper, which will become a Voron Switch in the future.
+In the second method, carbon fibers are directly mixed in the same container where the epoxy mixture was prepared. Once impregnated, these are introduced into the mold, adjusting positions with a stick to ensure all spaces are filled.
 
-We set the layers to `0.15mm` with Linear Advance to achieve a print quality similar to normal but in less time. The process takes approximately 4 hours for the tip and 8 hours for the internal part.
+The assembly is then wrapped with plastic wrap and secured with clamps to apply uniform pressure. This helps eliminate excess resin and improves cohesion.
 
-I recommend leaving the printing overnight to have the parts ready the next day. I prefer to print the parts separately to perform measurement checks and detect possible errors.
+## 7. Curing and Extraction
 
-In the model design, we consider a margin of ***0.20mm*** between the joining pieces and also consider how the excess resin will be evacuated.
+Initial curing takes approximately 12 hours. Then, the parts are carefully removed from the mold and left to harden for another 12 hours to reach their final strength. Optionally, an oven can be used, following the epoxy resin manufacturer's instructions, as each product has its own temperature and time requirements.
 
-## 5. Part Preparation
+## 8. Sanding and Fixing Impurities
 
-Before starting the process, we make sure to meticulously prepare the parts. To do this, we carefully sand the interior surfaces, removing any artifacts or defects. This stage is crucial, as any imperfection will be reflected in the final finish.
+The parts are sanded with progressively finer sandpaper (80 to 240 grit) to remove imperfections. Impurities are fixed using:
+- Additional epoxy resin.
+- Epoxy glue.
+- Suitable filler material.
 
-We also conduct thorough testing to ensure that the parts fit smoothly and without problems, avoiding any jamming during assembly.
+<video src="/content/rendition.m3u8_1736195937051_0.mp4-hevc-q28.mp4" preload controls></video>
 
-## 6. Waxing
+## 9. Assembly, Painting, and Drying
 
-To facilitate removal and achieve a smooth surface, we apply wax both inside and outside the mold. Inside, we will use manual wax application, as it will leave the surface smoother and the 3D printing layers will not show through, while a spray is used outside to remove excess resin remnants.
+The parts are assembled using high-strength epoxy adhesive (fast or slow-drying, as needed). Then, layers of paint or protective lacquer are applied to enhance and protect the surface. Finally, allow the piece to dry completely before conducting any tests or further adjustments.
 
-## 7. Resin & Carbon Layering
+## 10. Conclusions
 
-We apply a first layer of resin with a special brush, making sure to cover every corner of the parts. Then, carefully and precisely, we place pieces of carbon cloth over the resin. This process is meticulously repeated until all parts are fully impregnated.
-
-In the case of the lid, we apply a generous amount of resin and then add an even layer of carbon.
-
-## 8. Assembly & Curing
-
-Once all the parts are prepared, we assemble them and carefully wrap them with plastic wrap. To ensure a perfect bond, we use a clamp to apply pressure evenly in all areas. During this step, it is normal for a little resin to protrude.
-
-After completing the entire process, we let the parts sit for approximately 12 hours for the resin and carbon to harden (not completely), ensuring the structural integrity of the parts and allowing them to be removed from the mold without problems. The pieces must cure for another 12 hours to reach their final hardness.
-
-<video src="/content/rendition.m3u8_1736195937051_0.mp4-hevc-q28.mp4" controls preload></video>
-
-## 9. Carbon Tube Selection & Tools
-
-Choosing the right tube for the project is crucial. We generally opt for prefabricated tubes of `50cm` in length. In this case, we bought a tube with dimensions of `18x16x500mm` and one of `32mm` in diameter for a reasonable price of approximately `10€`, including shipping, from the following website: [Purchase Link](https://es.aliexpress.com/item/1005004139982617.html?spm=a2g0o.order_detail.order_detail_item.5.488a39d3IQXEao&gatewayAdapt=glo2esp)
-
-Before starting the cutting, make sure you have the right tools. You can opt for a traditional saw, although carbon does not cut easily with this method. The most recommended option is to use a rotary tool like a Dremel. Personally, I use a **Teccpo** model that comes with an extension cord.
-
-![image.png](/content/image_1736195989372_0.png)
-
-![image.png](/content/image_1736195995987_0.png)
-
-![image.png](/content/image_1736196006220_0.png)
-
-## 10. Cutting the Tube with a Dremel
-
-To make precise, clean cuts in the carbon tube, I designed a holder that securely holds the tube and allows it to rotate for straight cuts. The Dremel's extension cord connects to the main handle, and the tube is held in place by clips. At the base of the holder, there are four wheels that facilitate the rotation of the tube for precise and clean cuts.
-
-![image.png](/content/image_1736196016462_0.png)
-
-![image.png](/content/image_1736196021933_0.png)
-
-![image.png](/content/image_1736196026756_0.png)
-
-## 11. Cutting Results & Video
-
-Once you have cut the tube to your specifications, be sure to check the edges to ensure they are smooth and chip-free.
-
-In the following video, I have documented the cutting process using the Dremel and the designed holder, which will give you a clear picture of how to perform this crucial step in creating your own M4 stock.
-
-Video of how it is cut:
-
-<video src="/content/rendition.m3u8-cutting.mp4" preload controls></video>
-
-## 12. Sanding and Joining Parts
-
-We begin the sanding process using grid-type sandpaper with 80 and 240 grit to ensure a smooth and uniform finish on the parts. We chose not to increase the grit of the sandpaper, as this texture is ideal for facilitating adhesion between parts during assembly.
-
-To protect the visible areas and avoid accidental scratches, we carefully cover the parts with special attention to detail.
-
-To join the parts, we use a highly effective two-component epoxy glue. We prepare the correct mixture and apply it precisely to the joints. The advantage of this glue lies in its rapid hardening process, which takes less than a minute, ensuring a solid and durable bond between the parts.
-
-This meticulous approach to the sanding and assembly process allows us to achieve high-quality results and ensure the structural integrity of each part. Each step is performed with care and precision to ensure a flawless and durable final product.
-
-<video src="/content/3rendition.m3u8_1736196251750_0.mp4" controls preload></video>
-
-## 13. Tube Support & Hop-Up Bracket Mold (Optional)
-
-The tube support and hop-up bracket are critical and complex components in its manufacture. This is the third version of the mold, and I will soon share a more updated version in future posts. This mold is composed of four main parts and two internal parts, one of which is discarded and the other is retained for processing.
-
-The manufacturing method follows the same basic process we apply to other parts: first, we carefully sand the surfaces to ensure a smooth finish; then, we apply a layer of wax to facilitate mold release. Next, we join the mold pieces together. In this particular case, we fasten them together using screws. To prevent the formation of bubbles or other defects during casting, we apply plasteline to the joints. This plasteline not only prevents imperfections but also protects the screws during the process.
-
-This meticulous approach to manufacturing ensures that each component is of the highest quality, with no visual or structural defects. Every step, from sanding to imperfection protection, is carefully performed to achieve an exceptional final product.
+By following this process, you can manufacture a custom carbon fiber part for an Airsoft M4 with a professional finish. The selection of materials and attention to detail are essential for the project's success. Always prioritize safety and precision in every step.
 
 ---
-
-
-# Tools
-
-* Dremel
-* Gloves
-* Particle mask
-* Protective goggles
 
 # Costs
 
-Assuming we have basic tools such as a Dremel, drill, sandpaper, 3D printer, etc...
-
 | Material | Unit | Cost |
 |--|--|--|
-|[Carbon Tube](https://es.aliexpress.com/item/1005004139982617.html?spm=a2g0o.order_detail.order_detail_item.5.488a39d3IQXEao&gatewayAdapt=glo2esp)|1|9.05€ with (-20%)|
-|[Aluminum Adapter 12mm CW to 14mm CCW]()| 1 | 0.92€ |
-|[Right Hand Thread Tap HSS](https://es.aliexpress.com/item/4000712624358.html?spm=a2g0o.order_list.order_list_main.88.7d85194d3GhdmP&gatewayAdapt=glo2esp)|1|3.37€|
-| ***TOTAL*** | 3 | ***13.34€*** |
+|[Carbon Tube](https://es.aliexpress.com/item/1005004139982617.html?spm=a2g0o.order_detail.order_detail_item.5.488a39d3IQXEao&gatewayAdapt=glo2esp)|1|€9.05 (-20%)|
+|[12mm CW to 14mm CCW Aluminum Adapter]()| 1 | €0.92 |
+|[HSS Right-Hand Thread Tap](https://es.aliexpress.com/item/4000712624358.html?spm=a2g0o.order_list.order_list_main.88.7d85194d3GhdmP&gatewayAdapt=glo2esp)|1|€3.37|
+|[Miracle Gloss Mould Release Wax](https://www.easycomposites.eu/number-8-mould-release-wax)|1|€7.55|
+|[Soft Filleting and Filling Wax](https://www.easycomposites.eu/soft-yellow-filleting-filling-wax)|1|€7.15|
+|[Epoxy Resin](https://www.amazon.es/dp/B084RXYY7R?ref=cm_sw_r_apin_dp_DAVB23WCS7C9W8KVW6P1_1&ref_=cm_sw_r_apin_dp_DAVB23WCS7C9W8KVW6P1_1&social_share=cm_sw_r_apin_dp_DAVB23WCS7C9W8KVW6P1_1&starsLeft=1&skipTwisterOG=1&newOGT=1) | 1| €59.99|
+|[Epoxy Glue](https://www.leroymerlin.es/productos/pegamento-epoxi-2-componentes-25-ml-pegamento-metal-cristal-espejos-plasticos-marmol-embarcaciones-madera-piel-etc-86400358.html) | 1| €5.21|
+| ***TOTAL*** | 3 | ***€93.36*** |
 
-## Models and Files
+# Models and Files
 
-The models are paid and you can find them here: [Cults3D](https://cults3d.com/es/modelo-3d/juegos/diy-outer-barrel-airsoft-m4-aeg)
+The models are paid and can be found here: [Cults3D](https://cults3d.com/es/modelo-3d/juegos/diy-outer-barrel-airsoft-m4-aeg)
 
-### FAQ
+# FAQ
 
-- ***Why are they paid for?***
-    - _I have taken time to write this article, I have spent time printing and testing parts to give you everything ready..._
+- ***Why are they paid?***
+    - _I have dedicated time to writing this article, spent time printing and testing parts to give you everything ready..._
 
----
-
-## Conclusion
-
-This manual has guided you through the process of creating a custom carbon fiber outer barrel for an Airsoft M4, from design and modeling to cutting, assembly, and finishing. By following these steps and paying attention to detail, you can create a high-quality, personalized component for your replica. Remember that safety and precision are paramount throughout the process. We encourage you to try this project and experience the satisfaction of creating your own custom parts.
