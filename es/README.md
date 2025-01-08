@@ -45,6 +45,7 @@ La longitud del tubo dependerá de las necesidades del diseño, y un corte preci
 - Plastilina "Soft Filleting and Filling Wax".
 - Adhesivo epoxi de dos componentes.
 - Pintura o laca protectora.
+- Film de cocina
 
 **Herramientas:**
 - Impresora 3D (Ender 3 Pro o otras).
@@ -148,7 +149,12 @@ Siguiendo este proceso, se puede fabricar una pieza de fibra de carbono personal
 |[Soft Filleting and Filling Wax](https://www.easycomposites.eu/soft-yellow-filleting-filling-wax)|1|7,15€|
 |[Resina Epoxy](https://www.amazon.es/dp/B084RXYY7R?ref=cm_sw_r_apin_dp_DAVB23WCS7C9W8KVW6P1_1&ref_=cm_sw_r_apin_dp_DAVB23WCS7C9W8KVW6P1_1&social_share=cm_sw_r_apin_dp_DAVB23WCS7C9W8KVW6P1_1&starsLeft=1&skipTwisterOG=1&newOGT=1) | 1| 59,99€|
 |[Pegamento Epoxy](https://www.leroymerlin.es/productos/pegamento-epoxi-2-componentes-25-ml-pegamento-metal-cristal-espejos-plasticos-marmol-embarcaciones-madera-piel-etc-86400358.html) | 1| 5,21€|
-| ***TOTAL*** | 3 | ***93,36€*** |
+|200g 2x2 Twill 3k Black Stuff Carbon Fibre (1000mm)|1|53,11€|
+| ***TOTAL*** | 3 | ***146,47€*** |
+
+
+** Se puede abaratar con adquerrir el kit de EasyComposite: [Kit de reparación](https://www.easycomposites.eu/carbon-fibre-rapid-repair-kit)
+
 
 # Modelos y Archivos
 

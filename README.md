@@ -42,6 +42,7 @@ The tube length depends on the design requirements, and precise cutting is essen
 - "Soft Filleting and Filling Wax" putty.
 - Two-component epoxy adhesive.
 - Protective paint or lacquer.
+- Cooking film
 
 **Tools:**
 - 3D printer (e.g., Ender 3 Pro or others).
@@ -147,7 +148,10 @@ By following this process, you can manufacture a custom carbon fiber part for an
 |[Soft Filleting and Filling Wax](https://www.easycomposites.eu/soft-yellow-filleting-filling-wax)|1|€7.15|
 |[Epoxy Resin](https://www.amazon.es/dp/B084RXYY7R?ref=cm_sw_r_apin_dp_DAVB23WCS7C9W8KVW6P1_1&ref_=cm_sw_r_apin_dp_DAVB23WCS7C9W8KVW6P1_1&social_share=cm_sw_r_apin_dp_DAVB23WCS7C9W8KVW6P1_1&starsLeft=1&skipTwisterOG=1&newOGT=1) | 1| €59.99|
 |[Epoxy Glue](https://www.leroymerlin.es/productos/pegamento-epoxi-2-componentes-25-ml-pegamento-metal-cristal-espejos-plasticos-marmol-embarcaciones-madera-piel-etc-86400358.html) | 1| €5.21|
-| ***TOTAL*** | 3 | ***€93.36*** |
+|200g 2x2 Twill 3k Black Stuff Carbon Fibre (1000mm)|1|53,11€|
+| ***TOTAL*** | 3 | ***146,47€*** |
+
+** It can be made cheaper by purchasing the EasyComposite kit: [Repair kit](https://www.easycomposites.eu/carbon-fibre-rapid-repair-kit)
 
 # Models and Files
 
