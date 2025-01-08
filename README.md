@@ -59,7 +59,7 @@ Model parts are printed using PLA+ for its ease of handling. The printer used is
 
 The process for creating the mold for the suppressor tip involves designing a model with a base, cap, pin, centering pins, and a locking washer. The final shape is cubic to ensure precise molding. Parts are printed individually to allow measurements and quality checks.
 
-<video src="/content/1rendition.m3u8_1736196193621_0.mp4-hevc-q28.mp4" preload controls></video>
+<video src="https://github.com/Sychev-Lab/M4-Outer-Barrel-Carbon-Fiber/raw/refs/heads/main/content/1rendition.m3u8_1736196193621_0.mp4-hevc-q28.mp4" />
 
 ## 4. Preparing Carbon Tubes
 
@@ -74,7 +74,7 @@ In the following video, I have documented the cutting process using the Dremel a
 ![Dremel extension](/content/image_1736196006220_0.png)
 ![3D Model for cut](/content/image_1736196026756_0.png)
 
-https://github.com/Sychev-Lab/M4-Outer-Barrel-Carbon-Fiber/raw/refs/heads/main/content/rendition.m3u8-cutting.mp4
+<video src="https://github.com/Sychev-Lab/M4-Outer-Barrel-Carbon-Fiber/raw/refs/heads/main/content/rendition.m3u8-cutting.mp4" />
 
 
 ## 5. Mold Preparation and Waxing
@@ -85,7 +85,7 @@ To facilitate extraction and achieve a smooth surface, wax is applied inside and
 
 Once all mold parts are prepared, they are secured using long screws. To prevent material from sticking to the screw heads, "Soft Filleting and Filling Wax" putty is used as a protector. This step is essential to avoid imperfections in the finish.
 
-https://github.com/Sychev-Lab/M4-Outer-Barrel-Carbon-Fiber/raw/refs/heads/main/content/3rendition.m3u8_1736196251750_0.mp4
+<videos src="https://github.com/Sychev-Lab/M4-Outer-Barrel-Carbon-Fiber/raw/refs/heads/main/content/3rendition.m3u8_1736196251750_0.mp4" />
 
 ## 6. Mixing and Applying Resin and Carbon Fiber
 
@@ -127,7 +127,7 @@ The parts are sanded with progressively finer sandpaper (80 to 240 grit) to remo
 - Suitable filler material.
 
 
-https://github.com/Sychev-Lab/M4-Outer-Barrel-Carbon-Fiber/raw/refs/heads/main/content/rendition.m3u8_1736195937051_0.mp4-hevc-q28.mp4
+<video src="https://github.com/Sychev-Lab/M4-Outer-Barrel-Carbon-Fiber/raw/refs/heads/main/content/rendition.m3u8_1736195937051_0.mp4-hevc-q28.mp4" />
 
 ## 9. Assembly, Painting, and Drying
 
