@@ -61,7 +61,7 @@ Las piezas modelo son impresas utilizando PLA+ debido a su facilidad de manejo. 
 
 El proceso de creación del molde para la punta del supresor consiste en construir un modelo con una base, tapa, pasador, pasadores de centrado y una arandela de bloqueo. La forma final será cúbica para asegurar un moldeo preciso. Las piezas se imprimen individualmente para permitir verificaciones de medida y calid
 
-<video src="https://github.com/Sychev-Lab/M4-Outer-Barrel-Carbon-Fiber/raw/refs/heads/main/content/1rendition.m3u8_1736196193621_0.mp4-hevc-q28.mp4" />
+https://github.com/Sychev-Lab/M4-Outer-Barrel-Carbon-Fiber/raw/refs/heads/main/content/1rendition.m3u8_1736196193621_0.mp4-hevc-q28.mp4
 
 
 ## 4. Preparación de Tubos de Carbono
@@ -77,13 +77,13 @@ En el siguiente video, he documentado el proceso de corte utilizando la Dremel y
 ![Dremel extension](/content/image_1736196006220_0.png)
 ![3D Model for cut](/content/image_1736196026756_0.png)
 
-<video src="https://github.com/Sychev-Lab/M4-Outer-Barrel-Carbon-Fiber/raw/refs/heads/main/content/rendition.m3u8-cutting.mp4" />
+https://github.com/Sychev-Lab/M4-Outer-Barrel-Carbon-Fiber/raw/refs/heads/main/content/rendition.m3u8-cutting.mp4
 
 ## 5. Preparación del Molde y Encerado
 
 Para facilitar la extracción y lograr una superficie lisa, aplicamos cera tanto por dentro como por fuera del molde. En el interior utilizaremos aplicación manual de cera, preferentemente de la marca EasyComposites, ya que dejará la superficie más lisa y no se transparentarán las capas de la impresión 3D, mientras que en el exterior se utiliza un spray para retirar restos de resina sobrante. Una vez comentadas todas las piezas del molde, las fijamos utilizando tornillos largos. Para evitar que el material se adhiera a las cabezas de los tornillos, empleamos plastilina "Soft Filleting and Filling Wax" como protector. Este paso es esencial para evitar imperfecciones en el acabado.
 
-<video src="https://github.com/Sychev-Lab/M4-Outer-Barrel-Carbon-Fiber/raw/refs/heads/main/content/3rendition.m3u8_1736196251750_0.mp4" />
+https://github.com/Sychev-Lab/M4-Outer-Barrel-Carbon-Fiber/raw/refs/heads/main/content/3rendition.m3u8_1736196251750_0.mp4
 
 ## 6. Mezcla y Aplicación de Resina y Fibra de Carbono
 
@@ -126,7 +126,7 @@ Las piezas se lijan con papel de lija de granos progresivos (80 a 240) para elim
 - Pegamento epoxi.
 - Material de relleno adecuado.
 
-<video src="https://github.com/Sychev-Lab/M4-Outer-Barrel-Carbon-Fiber/raw/refs/heads/main/content/rendition.m3u8_1736195937051_0.mp4-hevc-q28.mp4" />
+https://github.com/Sychev-Lab/M4-Outer-Barrel-Carbon-Fiber/raw/refs/heads/main/content/rendition.m3u8_1736195937051_0.mp4-hevc-q28.mp4
 
 ## 9. Uniones, Pintado y Secado
 
