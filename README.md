@@ -73,7 +73,8 @@ In the following video, I have documented the cutting process using the Dremel a
 
 ![Dremel extension](/content/image_1736196006220_0.png)
 ![3D Model for cut](/content/image_1736196026756_0.png)
-<video src="/content/rendition.m3u8-cutting.mp4" preload controls></video>
+
+https://github.com/Sychev-Lab/M4-Outer-Barrel-Carbon-Fiber/raw/refs/heads/main/content/rendition.m3u8-cutting.mp4
 
 
 ## 5. Mold Preparation and Waxing
@@ -84,7 +85,7 @@ To facilitate extraction and achieve a smooth surface, wax is applied inside and
 
 Once all mold parts are prepared, they are secured using long screws. To prevent material from sticking to the screw heads, "Soft Filleting and Filling Wax" putty is used as a protector. This step is essential to avoid imperfections in the finish.
 
-<video src="/content/3rendition.m3u8_1736196251750_0.mp4" preload controls></video>
+https://github.com/Sychev-Lab/M4-Outer-Barrel-Carbon-Fiber/raw/refs/heads/main/content/3rendition.m3u8_1736196251750_0.mp4
 
 ## 6. Mixing and Applying Resin and Carbon Fiber
 
@@ -125,7 +126,8 @@ The parts are sanded with progressively finer sandpaper (80 to 240 grit) to remo
 - Epoxy glue.
 - Suitable filler material.
 
-<video src="/content/rendition.m3u8_1736195937051_0.mp4-hevc-q28.mp4" preload controls></video>
+
+https://github.com/Sychev-Lab/M4-Outer-Barrel-Carbon-Fiber/raw/refs/heads/main/content/rendition.m3u8_1736195937051_0.mp4-hevc-q28.mp4
 
 ## 9. Assembly, Painting, and Drying
 
@@ -134,6 +136,8 @@ The parts are assembled using high-strength epoxy adhesive (fast or slow-drying,
 ## 10. Conclusions
 
 By following this process, you can manufacture a custom carbon fiber part for an Airsoft M4 with a professional finish. The selection of materials and attention to detail are essential for the project's success. Always prioritize safety and precision in every step.
+
+[![Watch the video](https://img.youtube.com/vi/8Zqa3m3J4qo/maxresdefault.jpg)](https://youtu.be/8Zqa3m3J4qo)
 
 ---
 

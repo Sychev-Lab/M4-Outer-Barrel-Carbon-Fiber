@@ -3,7 +3,6 @@
 ![Imagen de presentación vista lateral](/content/IMG_9243.HEIC.jpg)
 ![Imagen de presentación tubos superpuestos](/content/IMG_9242.HEIC.jpg)
 
-
 # Fabricación de una Pieza Exterior Personalizada para M4 de Airsoft en Fibra de Carbono
 
 ---
@@ -62,7 +61,8 @@ Las piezas modelo son impresas utilizando PLA+ debido a su facilidad de manejo. 
 
 El proceso de creación del molde para la punta del supresor consiste en construir un modelo con una base, tapa, pasador, pasadores de centrado y una arandela de bloqueo. La forma final será cúbica para asegurar un moldeo preciso. Las piezas se imprimen individualmente para permitir verificaciones de medida y calid
 
-<video src="/content/1rendition.m3u8_1736196193621_0.mp4-hevc-q28.mp4" preload controls></video>
+https://github.com/Sychev-Lab/M4-Outer-Barrel-Carbon-Fiber/raw/refs/heads/main/content/1rendition.m3u8_1736196193621_0.mp4-hevc-q28.mp4
+
 
 ## 4. Preparación de Tubos de Carbono
 
@@ -76,13 +76,14 @@ En el siguiente video, he documentado el proceso de corte utilizando la Dremel y
 
 ![Dremel extension](/content/image_1736196006220_0.png)
 ![3D Model for cut](/content/image_1736196026756_0.png)
-<video src="/content/rendition.m3u8-cutting.mp4" preload controls></video>
+
+https://github.com/Sychev-Lab/M4-Outer-Barrel-Carbon-Fiber/raw/refs/heads/main/content/rendition.m3u8-cutting.mp4
 
 ## 5. Preparación del Molde y Encerado
 
 Para facilitar la extracción y lograr una superficie lisa, aplicamos cera tanto por dentro como por fuera del molde. En el interior utilizaremos aplicación manual de cera, preferentemente de la marca EasyComposites, ya que dejará la superficie más lisa y no se transparentarán las capas de la impresión 3D, mientras que en el exterior se utiliza un spray para retirar restos de resina sobrante. Una vez comentadas todas las piezas del molde, las fijamos utilizando tornillos largos. Para evitar que el material se adhiera a las cabezas de los tornillos, empleamos plastilina "Soft Filleting and Filling Wax" como protector. Este paso es esencial para evitar imperfecciones en el acabado.
 
-<video src="/content/3rendition.m3u8_1736196251750_0.mp4" preload controls></video>
+https://github.com/Sychev-Lab/M4-Outer-Barrel-Carbon-Fiber/raw/refs/heads/main/content/3rendition.m3u8_1736196251750_0.mp4
 
 ## 6. Mezcla y Aplicación de Resina y Fibra de Carbono
 
@@ -125,7 +126,7 @@ Las piezas se lijan con papel de lija de granos progresivos (80 a 240) para elim
 - Pegamento epoxi.
 - Material de relleno adecuado.
 
-<video src="/content/rendition.m3u8_1736195937051_0.mp4-hevc-q28.mp4" preload controls></video>
+https://github.com/Sychev-Lab/M4-Outer-Barrel-Carbon-Fiber/raw/refs/heads/main/content/rendition.m3u8_1736195937051_0.mp4-hevc-q28.mp4
 
 ## 9. Uniones, Pintado y Secado
 
@@ -134,6 +135,8 @@ Las piezas se ensamblan utilizando adhesivo epoxi de alta resistencia. Existe do
 ## 10. Conclusiones
 
 Siguiendo este proceso, se puede fabricar una pieza de fibra de carbono personalizada para un M4 de Airsoft con un acabado profesional. La selección de materiales y la atención al detalle son esenciales para el éxito del proyecto. Priorice siempre la seguridad y la precisión en cada paso.
+
+[![Watch the video](https://img.youtube.com/vi/8Zqa3m3J4qo/maxresdefault.jpg)](https://youtu.be/8Zqa3m3J4qo)
 
 
 ---
