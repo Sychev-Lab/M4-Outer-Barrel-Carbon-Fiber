@@ -3,6 +3,10 @@
 ![Side view presentation image](/content/IMG_9243.HEIC.jpg)
 ![Overlapping tubes presentation image](/content/IMG_9242.HEIC.jpg)
 
+> [!NOTE]
+> This article is also available in Spanish
+> [Go to verion in English](/es/README.md)
+
 ---
 
 ## Table of Contents

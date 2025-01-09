@@ -3,7 +3,11 @@
 ![Imagen de presentación vista lateral](/content/IMG_9243.HEIC.jpg)
 ![Imagen de presentación tubos superpuestos](/content/IMG_9242.HEIC.jpg)
 
-# Fabricación de una Pieza Exterior Personalizada para M4 de Airsoft en Fibra de Carbono
+
+> [!NOTE]
+> También este artículo esta disponible en Ingles
+> [Ir a verion en Ingles](/README.md)
+
 
 ---
 
