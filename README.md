@@ -163,7 +163,7 @@ By following this process, you can manufacture a custom carbon fiber part for an
 
 # Models and Files
 
-The models are paid and can be found here: [Cults3D](https://cults3d.com/es/modelo-3d/juegos/diy-outer-barrel-airsoft-m4-aeg)
+The models are paid and can be found here: [Cults3D](https://cults3d.com/:2621398)
 
 # FAQ
 
